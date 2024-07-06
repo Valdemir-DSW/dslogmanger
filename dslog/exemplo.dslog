@@ -1,0 +1,509 @@
+{
+    "creation_date": "2024-07-06 17:28:06",
+    "start_time": "17:28:06",
+    "num_variables": 5,
+    "variable_names": [
+        "qqqqqqq",
+        "wwwwwwwwwwww",
+        "eeeeeeeeeeeeeee",
+        "rrrrrrrrrrrrrrrr",
+        "tttttttttttttttttt"
+    ],
+    "log_entries": [
+        {
+            "time": 0,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 1,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 2,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 3,
+            "variable1": 85,
+            "variable2": 97,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 4,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 5,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 32,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 6,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 7,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 0,
+            "variable5": 0,
+            "message": ""
+        },
+        {
+            "time": 8,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 1,
+            "message": ""
+        },
+        {
+            "time": 9,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": ""
+        },
+        {
+            "time": 10,
+            "variable1": 85,
+            "variable2": 100,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": ""
+        },
+        {
+            "time": 11,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": ""
+        },
+        {
+            "time": 12,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": "ss"
+        },
+        {
+            "time": 13,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": "sssssssssssss"
+        },
+        {
+            "time": 14,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": "ssssssssssssssssssssssssssssss"
+        },
+        {
+            "time": 15,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": "sx"
+        },
+        {
+            "time": 16,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 28,
+            "message": "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+            "time": 17,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 85,
+            "message": ""
+        },
+        {
+            "time": 18,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 69,
+            "message": ""
+        },
+        {
+            "time": 19,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 2,
+            "variable5": 63,
+            "message": ""
+        },
+        {
+            "time": 20,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 21,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 22,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 23,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 24,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 25,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 26,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 27,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 28,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 29,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 30,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 31,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 32,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 33,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 34,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 35,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 36,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 37,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 38,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 39,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 40,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 41,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 42,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 43,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 44,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 45,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 0,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 46,
+            "variable1": 0,
+            "variable2": 0,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 47,
+            "variable1": 0,
+            "variable2": 6,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 48,
+            "variable1": 0,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 49,
+            "variable1": 0,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": "dsd"
+        },
+        {
+            "time": 50,
+            "variable1": 0,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 51,
+            "variable1": 85,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 52,
+            "variable1": 85,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 53,
+            "variable1": 85,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        },
+        {
+            "time": 54,
+            "variable1": 85,
+            "variable2": 14,
+            "variable3": 47,
+            "variable4": 53,
+            "variable5": 46,
+            "message": ""
+        }
+    ]
+}
