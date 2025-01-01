@@ -1,11 +1,14 @@
 # dslogmanger
 Repositório oficial do arquivo dslog
 ![istockphoto-1421859468-612x612](https://github.com/user-attachments/assets/3078207a-da74-446d-8234-708c0c969b21)
-a canção uma nova aplicação foi criada com novos recursos e suporte aos novos tipos de arquivo link abaixo para ver e obter !
+Atenção uma nova aplicação foi criada com novos recursos e suporte aos novos tipos de arquivo link abaixo para ver e obter !
+
+
 
 > link software v2 ! https://drive.google.com/file/d/1CrDiyy94E2EbcgY0ZPu_LgpqnZ32rV9p/view?usp=sharing
 
 
+![download](https://github.com/user-attachments/assets/76706971-ad18-4da2-9d61-40bdfc12d112)
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
